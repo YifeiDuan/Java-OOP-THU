@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="drawarc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/drawarc/drawarc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

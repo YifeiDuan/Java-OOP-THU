@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DrawArc:jar">
+    <output-path>$PROJECT_DIR$/drawarc</output-path>
+    <root id="archive" name="DrawArc.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/drawarc/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="src" />
+    </root>
+  </artifact>
+</component>

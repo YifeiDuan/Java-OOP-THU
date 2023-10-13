@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="colorword">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/colorword/colorword.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
